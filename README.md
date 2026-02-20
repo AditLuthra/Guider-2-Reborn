@@ -1,6 +1,6 @@
 # 🔥 Guider 2 Reborn
 
-### Flashforge’s frame. MakrX’s soul. Klipper’s power.
+### Flashforge’s frame. Adit Luthra’s soul. Klipper’s power.
 
 A complete open-source revival of the Flashforge Guider 2 using a BigTreeTech Octopus Pro, Klipper firmware, and modern maker-grade upgrades. This project transforms a discarded machine into a high-performance, customizable printer ready for the future.
 
